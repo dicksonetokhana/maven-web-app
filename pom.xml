@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>  
-	      <url>http://3.226.251.94:8088/mylandmarktech/repository/boa-releases/</url>
+	      <url>http://34.239.165.246:8081/myLandmark%20technology/repository/ebay-releases/</url>
 		    
 		          
 	    </repository>
@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.226.251.94:8088/mylandmarktech/repository/boa-snapshot/</url>
+	      <url>http://34.239.165.246:8081/myLandmark%20technology/repository/ebay-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
